@@ -1,0 +1,6 @@
+jupyter
+notebook==6.5.6
+pandas 
+numpy
+openpyx1
+matplotlib
